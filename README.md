@@ -1,2 +1,2 @@
 # itog_project
-hello!
+Приложение на модели Helsinki-NLP/opus-mt-en-ru, осущестляющее перевод.
