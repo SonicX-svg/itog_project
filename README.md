@@ -9,4 +9,4 @@ Deploy the App With a Back4App Container
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+the+final+software+engineering+project)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=FFFFFF00&center=true&random=false&width=600&lines=This+is+the+final+software+engineering+project)](https://git.io/typing-svg)
